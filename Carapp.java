@@ -3,7 +3,7 @@ package proyectoGen.semana4.projectcar;
 public class Carapp {
 
 	
-//	es un método esto de abajo
+//	es un método esto de abajo
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -14,7 +14,7 @@ public class Carapp {
 		System.out.println(rayoMac.getBrand());
 		rayoMac.setBrand("Bmw");
 		System.out.println(rayoMac.getBrand());
-		System.out.println("Dante es el mejor");
+		System.out.println("Dante es bienchingon");
 		
 		
 		
